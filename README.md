@@ -1,5 +1,5 @@
 <h2 align="center">Stats</h2>
-<a href="https://github.com/slow">
+<a href="https://github.com/aidan-underwood">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aidan-underwood" alt="Profile Views Count">
   </p>
